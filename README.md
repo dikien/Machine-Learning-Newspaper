@@ -29,10 +29,26 @@ Machine-Learning-Newspaper
 - Feature Extraction
  * Applied TfidfVectorizer and deleted stopwords.
 - Feature Selection
- * Applied below three method. SelectKBest, chi2 are faster than SelectPercentile.
+ * SelectKBest, chi2 are faster than SelectPercentile in my case.
  * f_classif for classification problem.
  * f_regression for regression problems.
  * chi2 for classification problems with sparse non-negative data (typically text data).
  * My prefer : SelectPercentile(score_func=chi2), SelectKBest(k=100), SelectPercentile(f_classif, percentile=30).
 - preprocess_4 method is for supervised learning.
 - preprocess_2 method is for unsupervised learning.
+
+
+##**Step4. Apply Different Algorithm**
+- I applied various Supervised and Unsupervised Algorithm with Dimension Reduction.
+- Supervised Learning
+ * Classification : GaussianNB, BernoulliNB, AdaBoostClassifier, DecisionTreeClassifier, KNeighborsClassifier, RandomForestClassifier, SVC
+ * Regression : LinearRegression, ElasticNet, Lasso, Ridge
+- Unsupervised Learning
+ * KMeans, SpectralClustering, AgglomerativeClustering
+- Dimension Reduction
+ * Linear Dimensionality Reduction : PCA, RandomizedPCA, LDA
+ * Non Linear Dimensionality Reduction : Isomap, LocallyLinearEmbedding
+ 
+ Algorithm | Feature Selection | Accuracy | Time |
+ ----------|--------------------|----------|----------|
+ GaussianNB |  SelectPercentile | 0.93 | 0.3s|
