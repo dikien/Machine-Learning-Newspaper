@@ -132,4 +132,22 @@ Feature Selection : SelectPercentile
  <img src="https://app.box.com/shared/static/ea8qojj8p0l0nqcsis91ahi729uaf8ki.png" />
 
 
- 
+##**Reference**
+- **Book**
+ * <a href="http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1782161406/ref=sr_1_1?ie=UTF8&qid=1422194428&sr=8-1&keywords=machine+learning+python">Building Machine Learning Systems with Python</a>
+ * <a href="http://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181/ref=sr_1_10?ie=UTF8&qid=1422194368&sr=8-10&keywords=machine+learning">Machine Learning in Action</a>
+- **Class**
+ * <a href="https://www.udacity.com/course/ud120">Intro to Machine Learning</a>
+- **Site**
+ * http://sujitpal.blogspot.kr/2013/05/feature-selection-with-scikit-learn.html
+ * http://stackoverflow.com/questions/25250654/how-can-i-use-a-custom-feature-selection-function-in-scikit-learns-pipeline
+ * http://stackoverflow.com/questions/22294241/plotting-a-decision-boundary-separating-2-classes-using-matplotlibs-pyplot
+ * http://stackoverflow.com/questions/12118720/python-tf-idf-cosine-to-find-document-similarity
+ * http://stackoverflow.com/questions/12118720/python-tf-idf-cosine-to-find-document-similarity
+ * http://nbviewer.ipython.org/github/jakevdp/sklearn_scipy2013/blob/master/notebooks/05.2_application_to_text_mining.ipynb
+ * http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/tree/master/
+ * http://www.datasciencecentral.com/profiles/blogs/python-scikit-learn-to-simplify-machine-learning-bag-of-words-to
+ * http://www.naftaliharris.com/blog/visualizing-k-means-clustering/
+ * http://www.slideshare.net/SarahGuido/kmeans-clustering-with-scikitlearn
+ * http://blog.christianperone.com/?p=1589
+ * http://scikit-learn.org/stable/
