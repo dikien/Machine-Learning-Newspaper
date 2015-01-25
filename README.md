@@ -49,6 +49,24 @@ Machine-Learning-Newspaper
  * Linear Dimensionality Reduction : PCA, RandomizedPCA, LDA
  * Non Linear Dimensionality Reduction : Isomap, LocallyLinearEmbedding
  
+ 
  Algorithm | Feature Selection | Accuracy | Time |
  ----------|--------------------|----------|----------|
  GaussianNB |  SelectPercentile | 0.93 | 0.3s|
+ GaussianNB | chi2 | 0.93 | 0.12s|
+ BernoulliNB | SelectPercentile | 0.92 | 0.2s|
+ BernoulliNB | chi2 | 0.90 | 0.06s|
+ AdaBoostClassifier | SelectPercentile | 0.72 | 14s|
+ AdaBoostClassifier | chi2 | 0.71 | 4.6s|
+ DecisionTreeClassifier | SelectPercentile | 0.79 | 9s|
+ DecisionTreeClassifier | chi2 | 0.80 | 2.2s|
+ KNeighborsClassifier | SelectPercentile | 0.75 | 3s|
+ KNeighborsClassifier | chi2 | 0.55 | 1.0s|
+ RandomForestClassifier | SelectPercentile | 0.84 | 2s|
+ RandomForestClassifier | chi2 | 0.85 | 0.8s|
+ RandomForestClassifier | SelectPercentile | 0.88 | 30s|
+ RandomForestClassifier | chi2 | 0.87 | 10s|
+
+
+
+
