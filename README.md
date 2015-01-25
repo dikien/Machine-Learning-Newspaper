@@ -96,11 +96,11 @@ Feature Selection : SelectPercentile
  
  
  Feature Selection : SelectKBest
-<img src="http://bokeh.pydata.org/en/latest/_images/histogram_t.png" />
+<img src="https://app.box.com/shared/static/n9gndwsaqgzh39b61vlzwamslvclb2kv.png" />
 
 
 Feature Selection : SelectPercentile
-<img src="http://bokeh.pydata.org/en/latest/_images/histogram_t.png" />
+<img src="https://app.box.com/shared/static/d3gndu7kdxuc5icqnocyfz218fguocpt.png" />
 
 
  Algorithm | Time | Opinion | 
@@ -113,23 +113,23 @@ Feature Selection : SelectPercentile
  
  
  Dimension Reduction : PCA
- <img src="http://bokeh.pydata.org/en/latest/_images/histogram_t.png" />
+ <img src="https://app.box.com/shared/static/jy5awn5ggc5t8b2lrjhdkzpm7r64uzf5.png" />
 
 
  Dimension Reduction : RandomizedPCA
- <img src="http://bokeh.pydata.org/en/latest/_images/histogram_t.png" />
+ <img src="https://app.box.com/shared/static/xo2tlis1d105gz2sbnxkz8yj0660v9ds.png" />
 
 
  Dimension Reduction : LDA
- <img src="http://bokeh.pydata.org/en/latest/_images/histogram_t.png" />
+ <img src="https://app.box.com/shared/static/9i8xviqup6fzesq1l009g5a60ffbefak.png" />
 
 
  Dimension Reduction : Isomap
- <img src="http://bokeh.pydata.org/en/latest/_images/histogram_t.png" />
+ <img src="https://app.box.com/shared/static/izgqnyyywq5ghckzuqnive4ofha2ilrl.png" />
 
 
  Dimension Reduction : LocallyLinearEmbedding
- <img src="http://bokeh.pydata.org/en/latest/_images/histogram_t.png" />
+ <img src="https://app.box.com/shared/static/ea8qojj8p0l0nqcsis91ahi729uaf8ki.png" />
 
 
  
