@@ -9,3 +9,4 @@ mechanize==0.2.5
 konlpy==0.4.0
 BeautifulSoup==3.2.1
 chardet==2.3.0
+matplotlib==1.4.2

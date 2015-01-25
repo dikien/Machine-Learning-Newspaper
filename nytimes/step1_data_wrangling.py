@@ -20,7 +20,7 @@ def trans_json_to_csv(date):
     :param date: date
     :return: nothing
     '''
-    ft = open(date + ".csv", "wb+")
+    ft = open("articles/"+ date + ".csv", "wb+")
     f = csv.writer(ft, delimiter='\t')
     payload.update({"begin_date" : date, "end_date" : date})
     docs_lens = 1
