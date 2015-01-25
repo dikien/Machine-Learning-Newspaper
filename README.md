@@ -69,11 +69,11 @@ Machine-Learning-Newspaper
 
 
 Feature Selection : SelectKBest
-<img src="https://app.box.com/s/n9gndwsaqgzh39b61vlzwamslvclb2kv" />
+<img src="https://app.box.com/shared/static/01drd06vvh7w423vy3z9v2wvunukow3o.png" />
 
 
 Feature Selection : SelectPercentile
-<img src="http://bokeh.pydata.org/en/latest/_images/histogram_t.png" />
+<img src="https://app.box.com/shared/static/efmcqh1yr2rrreklup4nnnlnhswhqqcv.png" />
 
 
  Algorithm | Feature Selection | Accuracy | Time |
