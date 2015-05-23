@@ -46,7 +46,7 @@ Machine-Learning-Newspaper
 - Unsupervised Learning
  * KMeans, SpectralClustering, AgglomerativeClustering
 - Dimension Reduction
- * Linear Dimensionality Reduction : PCA(supervised), RandomizedPCA(supervised), LDA(unsupervised)
+ * Linear Dimensionality Reduction : PCA(unsupervised), RandomizedPCA(unsupervised), LDA(supervised)
  * Non Linear Dimensionality Reduction : Isomap(unsupervised), LocallyLinearEmbedding(unsupervised)
  
  
